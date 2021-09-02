@@ -1,4 +1,4 @@
-## Hi there, I'm Abubakarr Bah ( BAHDEV ) 👋
+### Hi, I'm Abubakarr Bah ( BAHDEV ) 👋
 ## I'm a Developer, Python and Tech Enthuasist, I love to Code Using Python!!
 - 🔭 I’m currently working on ... Python & Django
 - 🌱 I’m currently learning ... everything 🤣
