@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BAHDEV
+# 👋 Hi, I’m Abubakarr Bah ( BAHDEV )
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Open-Source
